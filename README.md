@@ -7,3 +7,4 @@ This dashboard lets a user find books/magazines available at the Marvel Store. W
 
 # Link to deploy the application
 
+https://katyayini.github.io/marvelstore/
